@@ -114,7 +114,7 @@
                              - Fixed some minor grammatical errors throughout script.
                      0.1.8.1 - Fixed issue in 'Confirm-PMEUpdatePending' function to avoid using the PMEWrapper.log to detect if
                                install is pending as this is not reliable and caused the script to force the update rather than
-                               gracefully wait until the $RepairAfterUpdateDays variable has passed.
+                               gracefully wait until the $Repai rAfterUpdateDays variable has passed.
                      0.1.8.2 - Incorporated changes made by Casper Stekelenburg of ICT-Concept B.V. :-
                                - Applied parameter splatting in a number of places to reduce length of commands that were too 
                                  long to fit on a 24 inch display.
